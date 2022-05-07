@@ -19,7 +19,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 1. M.Sc. Thesis 
 2. Facial Recognition
-3. X-ray Images For COVID Detection. 
+3. X-ray Images For COVID Detection. g 
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
